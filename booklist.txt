@@ -1,0 +1,162 @@
+9798374102581
+The ChatGPT Millionaire: Making Money Online has never been this EASY
+Dagger, Neil
+9781579550813
+What Is ChatGPT Doing ... and Why Does It Work?
+Wolfram, Stephen
+9798385604029
+CHATGPT BOOK FOR BEGINNERS: Getting Started with ChatGPT, The Ultimate Beginner's Guide to Use ChatGPT Effectively, Earn Money and Increase Your Productivity 10x
+Natheem S, Arsath
+9781491910771
+Head First Java: A Brain-Friendly Guide
+Authors: Sierra, Kathy - Bates, Bert - Gee, Trisha
+9780134685991
+Effective Java
+Bloch, Joshua
+9781260463415
+Java: The Complete Reference, Twelfth Edition
+Schildt, Herbert
+9798821535474
+Java: Learn Java in One Day and Learn It Well. Java for Beginners with Hands-on Project. (Learn Coding Fast with Hands-On Project)
+Chan, Jamie
+9798372121782
+Java Cryptography: Tools and Techniques
+Authors: Hook, David Geoffrey - Eaves, Jonathan James
+9781617299186
+Java Persistence with Spring Data and Hibernate
+Tudose, Catalin
+9798377148494
+Java From Zero: Learn Java Programming Fast for Beginners to Professionals: The Complete Guide With Code Examples and Exercises to Become a Professional
+Brandt, Scott
+9780137673629
+Core Java: Fundamentals, Volume 1 (Oracle Press Java)
+Horstmann, Cay
+9781119861645
+Java For Dummies (For Dummies (Computer/Tech))
+Burd, Barry
+9781119986645
+Java All-in-One For Dummies
+Lowe, Doug
+9781803241432
+Learn Java 17 Programming: Learn the fundamentals of Java Programming with this updated guide with the latest features, 2nd Edition
+Samoylov, Nick
+9781937961930
+ChatGPT for Beginners: A Step-by-Step Guide to Crafting Great Prompts
+Clayton, Ian M.
+9798378940134
+HANDBOOK OF CHATGPT: The Ultimate Beginner book to use ChatGPT Effectively, Automating Boring Tasks, and Increasing Your Productivity 10x
+Natheem S, Arsath
+9798376710999
+The ChatGPT Prompt Library: Second Edition (Artificial Intelligence Guides)
+Butvilauskas, Aurimas
+9798372191266
+ChatGPT Prompts Mastering: A Guide to Crafting Clear and Effective Prompts - BeginnerS to Advanced Guide
+Brown, Christian
+9798377429050
+ChatGPT & Social Media Marketing: The Ultimate Guide to Succeeding on Social Media. Discover how Artificial Intelligence can make you the world's best Social Media Manager
+Turner, Ryan
+9798369958582
+A Beginner's Guide to ChatGPT and GPT-3: Discover the power of ChatGPT and GPT-3 for your business and personal projects.
+Chung, Hal
+9798379222147
+ChatGPT for Entrepreneurs: Starting and Growing Your Lean Startup with ChatGPT
+Ridder, Steven A.
+9780393866865
+Four Battlegrounds: Power in the Age of Artificial Intelligence
+Scharre, Paul
+9780744076820
+Simply Artificial Intelligence (DK Simply)
+DK
+9780674278660
+The Myth of Artificial Intelligence: Why Computers Canâ€™t Think the Way We Do
+Larson, Erik J.
+9781484250273
+Artificial Intelligence Basics: A Non-Technical Introduction
+Taulli, Tom
+9780141981802
+Life 3.0: Being Human in the Age of Artificial Intelligence
+TEGMARK MAX
+9780999140253
+Artificial Intelligence: Why AI Projects Succeed Or Fail
+Truemper, Klaus
+9781692995706
+Artificial Intelligence: Learning automation skills with Python (2 books in 1: Artificial Intelligence a modern approach & Artificial Intelligence business applications)
+Baker, Chris
+9781119796763
+Artificial Intelligence For Dummies (For Dummies (Computer/Tech))
+Authors: Mueller, John Paul - Massaron, Luca
+9798985822700
+Artificial Intelligence: An Executive Guide to Make AI Work for Your Business
+Sweenor, David E.
+9798406364208
+Artificial Intelligence and Deep Learning with Python: Every Line of Code Explained For Readers New to AI and New to Python
+D'Ascoli CPA, Steven
+9780744076820
+Simply Artificial Intelligence (DK Simply)
+DK
+9798368195193
+ChatGPT on ChatGPT: The AI Explains Itself
+Authors: AI, ChatGPT - Hampton P.E., Jeff
+9781098125974
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems
+GÃ©ron, AurÃ©lien
+9781098107963
+Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications
+Huyen, Chip
+9781736049129
+Machine Learning System Design Interview
+Authors: Aminian, Ali - Xu, Alex
+9781492032649
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems
+GÃ©ron, AurÃ©lien
+9781914124013
+Machine Learning: Architecture in the age of Artificial Intelligence
+Bernstein, Phil
+9781076012524
+Machine Learning: Master Machine Learning Fundamentals For Beginners
+Martin, MG
+9781119724018
+Machine Learning For Dummies
+Mueller, John Paul
+9781680507225
+A Common-Sense Guide to Data Structures and Algorithms, Second Edition: Level Up Your Core Programming Skills
+Wengrow, Jay
+9788193245279
+Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles
+Karumanchi, Narasimha
+9780134855684
+Data Structures & Algorithms in Python (Developer's Library)
+Authors: Canning, John - Broder, Alan - Lafore, Robert
+9798374577044
+Data Structures and Algorithms with Java: 100+ Coding Q&A (Code of Code)
+Cakal, Yasin Hasan
+9781118771334
+Data Structures and Algorithms in Java
+Authors: Goodrich, Michael T. - Tamassia, Roberto - Goldwasser, Michael H.
+9780470383278
+Data Structures and Algorithms in C++
+Authors: Goodrich, Michael T. - Tamassia, Roberto - Mount, David M.
+9780470128701
+Data Structures: Abstraction and Design Using Java
+Authors: Koffman, Elliot B. - Wolfgang, Paul A. T.
+9781590282571
+Problem Solving with Algorithms and Data Structures Using Python SECOND EDITION
+Authors: Bradley N. Miller - David L. Ranum
+9780136520238
+Introduction to Java Programming and Data Structures, Comprehensive Version
+Liang, Y.
+9798678017192
+The Bible of Algorithms and Data Structures: A Complex Subject Simply Explained (Runtime Complexity, Big O Notation, Programming)
+Dedov, Florian
+9798558098426
+Machine Learning for Absolute Beginners: A Plain English Introduction (Third Edition) (Machine Learning with Python for Beginners)
+Theobald, Oliver
+9798986924007
+The StatQuest Illustrated Guide To Machine Learning
+Starmer, Josh
+9798411463330
+Interpretable Machine Learning: A Guide For Making Black Box Models Explainable
+Molnar, Christoph
+9781108455145
+Mathematics for Machine Learning
+Deisenroth, Marc Peter
