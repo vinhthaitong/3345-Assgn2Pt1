@@ -65,7 +65,7 @@ class AVLTree {
         if (node == null) {
             if (root == null) {
                 System.out.println("Root is null");
-                System.out.println("Inserting book with ISBN " + isbn + " at root level");
+                System.out.println("Inserting Book object ISBN " + isbn + " at root level");
             }
             return (new BookNode(isbn, title, author));
         }
@@ -73,21 +73,20 @@ class AVLTree {
         int compareResult = isbn.compareTo(node.ISBN);
         
         if (compareResult < 0) {
-            System.out.println("Book ISBN " + isbn + " < " + node.ISBN + " looking at left subtree");
+            System.out.println("Book object ISBN " + isbn + " < " + node.ISBN + " looking at left subtree");
             if (node.left == null) {
-                System.out.println("Found null, inserting Book with ISBN " + isbn + " as left child of " + node.ISBN);
+                System.out.println("Found null, inserting Book object ISBN " + isbn + " as left child of " + node.ISBN);
             }
             node.left = insert(node.left, isbn, title, author);
         }
         else if (compareResult > 0) {
-            System.out.println("Book ISBN " + isbn + " > " + node.ISBN + " looking at right subtree");
+            System.out.println("Book object ISBN " + isbn + " > " + node.ISBN + " looking at right subtree");
             if (node.right == null) {
-                System.out.println("Found null, inserting Book with ISBN " + isbn + " as right child of " + node.ISBN);
+                System.out.println("Found null, inserting Book object ISBN " + isbn + " as right child of " + node.ISBN);
             }
             node.right = insert(node.right, isbn, title, author);
         }
         else { // Duplicate ISBN not allowed
-            System.out.println("Duplicate ISBN found: " + isbn + ". Not inserting.");
             return node;
         }
 
